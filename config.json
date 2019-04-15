@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://fb-react100-workshop.herokuapp.com/",
+  "change_calculator": "https://fb-changecalculator.herokuapp.com/",
+  "mortgage_calculator": "https://fb-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://fb-san-diego-top-spots.herokuapp.com/",
+  "vstda": "https://fb-vstda.herokuapp.com/"
 }
